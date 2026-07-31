@@ -5,8 +5,8 @@
 %global crate inotify-sys
 
 Name:           rust-%{crate}
-Version:        0.1.3
-Release:        5%{?dist}
+Version:        0.1.8
+Release:        1%{?dist}
 Summary:        Inotify bindings for the Rust programming language
 
 # Upstream license specification: ISC
